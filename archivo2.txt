@@ -7,3 +7,4 @@ contenido Genericox
 Hola Este texto tiene que estar 
 cohexitiendo con el texto de arriba
 >>>>>>> ramaC
+
