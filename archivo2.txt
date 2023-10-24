@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 contenido Generico + contenido para diferenciar
 +Texto XDD
+=======
+contenido Genericox
+
+Hola Este texto tiene que estar 
+cohexitiendo con el texto de arriba
+>>>>>>> ramaC
